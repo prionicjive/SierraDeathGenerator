@@ -2189,7 +2189,7 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/7524/snatcher/',
 		'contributions':[{
 			'type':'extra letters/punctuation',
-			'contributor': 'Foone',
+			'contributor': 'Alice Averlong',
 			'url':'https://digipres.club/@foone',
 		}],
 		'added':'2024-12-24'
@@ -2836,7 +2836,7 @@ var generators={
 		'gameinfo':'https://en.wikipedia.org/wiki/Winners_Don%27t_Use_Drugs',
 		'contributions':[{
 			'type':'extra letters',
-			'contributor': 'Foone Turing',
+			'contributor': 'Alice Averlong',
 			'url':'https://digipres.club/@foone',
 		}],
 	},
